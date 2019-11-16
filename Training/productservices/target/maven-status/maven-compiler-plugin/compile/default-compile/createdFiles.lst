@@ -1,0 +1,5 @@
+com\shibee\product\bo\ProductBOImpl.class
+com\shibee\product\dao\ProductDAOImpl.class
+com\shibee\product\bo\ProductBO.class
+com\shibee\product\dto\Product.class
+com\shibee\product\dao\ProductDAO.class
