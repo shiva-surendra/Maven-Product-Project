@@ -1,0 +1,4 @@
+pwd ./Tranining
+mvn clean
+mvn install
+http://localhost:8085/productweb/Home_Product.jsp
